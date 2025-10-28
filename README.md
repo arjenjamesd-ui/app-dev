@@ -55,6 +55,7 @@ My first repository
 |------------|-------------|------------------|------------|
 | Season 1 | 8 episodes | December 10, 2020 | ✅ Released |
 | Season 2 | 8 episodes | December 22, 2022 | ✅ Released |
+| Season 3 | 8 episodes | September 25, 2025 | ✅ Released |
 
 ---
 
