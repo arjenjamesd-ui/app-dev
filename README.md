@@ -87,4 +87,4 @@ My first repository
 
 ---
 
-**Written with Arjen Domingo❤️**
+**Arjen James Domingo❤️**
